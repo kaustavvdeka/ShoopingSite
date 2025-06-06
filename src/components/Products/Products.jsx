@@ -61,8 +61,7 @@ const Products = () => {
             Products
           </h1>
           <p data-aos="fade-up" className="text-xs text-gray-400">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit
-            asperiores modi Sit asperiores modi
+            "Discover our exclusive range of fashion essentials, designed to bring elegance and comfort to your wardrobe. Whether you’re looking for timeless ethnic wear or trendy western outfits, our collection has something for everyone. Enjoy premium quality, stylish designs, and unbeatable prices. Upgrade your style today!"
           </p>
         </div>
         {/* Body section */}
