@@ -26,9 +26,7 @@ const Banner = () => {
             <p
               data-aos="fade-up"
               className="text-sm text-gray-500 tracking-wide leading-5"
-            >
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque
-              reiciendis inventore iste ratione ex alias quis magni at optio
+            >"Get ready to upgrade your wardrobe and tech gadgets with unbeatable deals! This winter, enjoy discounts of up to 50% on your favorite brands. Whether you're looking for cozy winter wear, stylish accessories, or the latest electronics, we’ve got you covered. Don't miss out—shop now and make this season extra special!"
             </p>
             <div className="flex flex-col gap-4">
               <div data-aos="fade-up" className="flex items-center gap-4">
