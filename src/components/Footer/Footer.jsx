@@ -48,9 +48,7 @@ const Footer = () => {
               <img src={footerLogo} alt="" className="max-w-[50px]" />
               Shopsy
             </h1>
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum in
-              beatae ea recusandae blanditiis veritatis.
+            <p>"At Shopsy, we believe in delivering quality products that blend style and comfort effortlessly. From trendy fashion to everyday essentials, our carefully curated collection ensures that you always have the best options at unbeatable prices. Shop with confidence and redefine your wardrobe with the latest trends!"
             </p>
           </div>
 
