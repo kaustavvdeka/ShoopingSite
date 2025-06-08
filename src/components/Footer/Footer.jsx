@@ -46,7 +46,7 @@ const Footer = () => {
           <div className="py-8 px-4">
             <h1 className="sm:text-3xl text-xl font-bold sm:text-left text-justify mb-3 flex items-center gap-3">
               <img src={footerLogo} alt="" className="max-w-[50px]" />
-              Shopsy
+              ShopCity
             </h1>
             <p>"At Shopsy, we believe in delivering quality products that blend style and comfort effortlessly. From trendy fashion to everyday essentials, our carefully curated collection ensures that you always have the best options at unbeatable prices. Shop with confidence and redefine your wardrobe with the latest trends!"
             </p>
